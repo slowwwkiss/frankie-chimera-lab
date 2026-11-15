@@ -1,1 +1,31 @@
-IyBQcm9kdWN0IFN0ZWVyaW5nIOKAlCBGcmFua2llOiBUaGUgQVBJIENoaW1lcmEgTGFiCgojIyBXaGF0IHRoaXMgaXMKQSBzdGF0aWMgSGFsbG93ZWVuIGxhYiB3ZWIgYXBwIGZvciBLaXJvd2VlbiAyMDI2LCBjYXRlZ29yeSBGUkFOS0VOU1RFSU4uCkl0IHN0aXRjaGVzIGEgbGl2aW5nICJjcmVhdHVyZSIgZGFzaGJvYXJkIG91dCBvZiBmcmVlIHB1YmxpYyBBUElzIOKAlCBubwpiYWNrZW5kLCBubyBrZXlzLCBubyBidWlsZCBzdGVwLiBUaGUgbW9uc3RlciBtZXRhcGhvciBpcyBsaXRlcmFsOiBldmVyeSBkYXRhCnNvdXJjZSBpcyBhIGJvZHkgcGFydCBib2x0ZWQgb250byBvbmUgY3JlYXR1cmUuCgojIyBXaG8gaXQgaXMgZm9yCi0gSGFja2F0aG9uIGp1ZGdlczogbXVzdCB1bmRlcnN0YW5kIHRoZSBpZGVhIGluIDEwIHNlY29uZHMgYW5kIHNlZSBpdCB3b3JrCiAgaW4gMzAgc2Vjb25kcy4KLSBDdXJpb3VzIHZpc2l0b3JzOiBwaWNrIHBhcnRzLCBwcmVzcyBvbmUgYnV0dG9uLCBnZXQgYSBsaXZpbmcgY3JlYXR1cmUuCi0gVGhlIGJ1aWxkZXIgKHNvbG8sIEFjaG1hZCBSZXphIEJhZWhhcWkpOiBtdXN0IGJlIGFibGUgdG8gZGVwbG95IGl0IHRvCiAgR2l0SHViIFBhZ2VzIGJ5IHB1c2hpbmcgZmlsZXMsIG5vdGhpbmcgZWxzZS4KCiMjIFByb2R1Y3QgcnVsZXMgKG5ldmVyIGJyZWFrIHRoZXNlKQoxLiAqKkl0IG11c3QgUkVBTExZIHdvcmsuKiogRXZlcnkgYm9keSBwYXJ0IHNob3dzIGxpdmUgZGF0YSBmcm9tIGEgcmVhbAogICBwdWJsaWMgQVBJLiBObyBtb2NrIGRhdGEsIG5vIGZha2UgbnVtYmVycywgbm8gbG9yZW0gaXBzdW0uIElmIGFuIEFQSSBpcwogICBkb3duLCBzYXkgc28gb24gdGhhdCBjYXJkIOKAlCBuZXZlciBmYWtlIGl0LgoyLiAqKk9uZSBjbGljayB0byBhbGl2ZS4qKiBQaWNrIDLigJM0IHBhcnRzLCBwcmVzcyAiQlJJTkcgVE8gTElGRSIuIFRoYXQgaXMKICAgdGhlIHdob2xlIGNvcmUgbG9vcC4gRXZlcnl0aGluZyBlbHNlIGlzIHNlY29uZGFyeS4KMy4gKipUaGUgY3JlYXR1cmUgc3Vydml2ZXMgYSBkZWFkIHBhcnQuKiogT25lIEFQSSBmYWlsaW5nIG11c3QgbmV2ZXIga2lsbAogICB0aGUgY3JlYXR1cmUuIEdyYWNlZnVsIHBlci1wYXJ0IGZhaWx1cmUgaXMgYSBmZWF0dXJlLCBub3QgYW4gZWRnZSBjYXNlLgo0LiAqKlNoYXJlYWJsZSBieSBVUkwuKiogQSBjcmVhdHVyZSBpcyBhIGxpbmsuIEFueW9uZSBvcGVuaW5nIHRoZSBsaW5rIGdldHMKICAgdGhlIHNhbWUgcGFydHMgd2l0aCBmcmVzaCBsaXZlIGRhdGEuCjUuICoqRnJlZSBmb3JldmVyLioqIE5vIGtleXMsIG5vIGFjY291bnRzLCBubyBwYWlkIEFQSXMsIG5vIHRyYWNraW5nLgogICBUaGUgYXBwIG11c3Qgc3RpbGwgcnVuIGluIDIwMjcgd2l0aCB6ZXJvIG1haW50ZW5hbmNlLgoKIyMgVG9uZQpNYWQtc2NpZW5jZSBsYWIsIHBsYXlmdWwgYnV0IGZ1bmN0aW9uYWwuIFBsYWluIHRleHQsIG5vIGh5cGUgZW1vamkuClRoZSBtb25zdGVyIGlzIGRyYXduIHdpdGggQ1NTL1NWRywgbmV2ZXIgd2l0aCBlbW9qaS4K
+# Product Steering — Frankie: The API Chimera Lab
+
+## What this is
+A static Halloween lab web app for Kiroween 2026, category FRANKENSTEIN.
+It stitches a living "creature" dashboard out of free public APIs — no
+backend, no keys, no build step. The monster metaphor is literal: every data
+source is a body part bolted onto one creature.
+
+## Who it is for
+- Hackathon judges: must understand the idea in 10 seconds and see it work
+  in 30 seconds.
+- Curious visitors: pick parts, press one button, get a living creature.
+- The builder (solo, Achmad Reza Baehaqi): must be able to deploy it to
+  GitHub Pages by pushing files, nothing else.
+
+## Product rules (never break these)
+1. **It must REALLY work.** Every body part shows live data from a real
+   public API. No mock data, no fake numbers, no lorem ipsum. If an API is
+   down, say so on that card — never fake it.
+2. **One click to alive.** Pick 2–4 parts, press "BRING TO LIFE". That is
+   the whole core loop. Everything else is secondary.
+3. **The creature survives a dead part.** One API failing must never kill
+   the creature. Graceful per-part failure is a feature, not an edge case.
+4. **Shareable by URL.** A creature is a link. Anyone opening the link gets
+   the same parts with fresh live data.
+5. **Free forever.** No keys, no accounts, no paid APIs, no tracking.
+   The app must still run in 2027 with zero maintenance.
+
+## Tone
+Mad-science lab, playful but functional. Plain text, no hype emoji.
+The monster is drawn with CSS/SVG, never with emoji.
