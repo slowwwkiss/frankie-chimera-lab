@@ -1,1 +1,33 @@
-IyBUZWNoIFN0ZWVyaW5nIOKAlCBGcmFua2llOiBUaGUgQVBJIENoaW1lcmEgTGFiCgojIyBTdGFjawotICoqSFRNTCArIHZhbmlsbGEgSmF2YVNjcmlwdCArIENTUy4qKiBObyBmcmFtZXdvcmssIG5vIGJ1bmRsZXIsIG5vIGJ1aWxkCiAgc3RlcCwgbm8gbnBtIGRlcGVuZGVuY2llcyBhdCBydW50aW1lLiBUaGUgYXBwIGlzIHRocmVlIGZpbGVzLgotICoqSG9zdGluZzoqKiBHaXRIdWIgUGFnZXMgZnJvbSB0aGUgcmVwbyByb290IChgbWFpbmAgYnJhbmNoKS4KLSAqKlN0b3JhZ2U6KiogYGxvY2FsU3RvcmFnZWAgb25seSAoc2F2ZWQgY3JlYXR1cmVzKS4gTm8gY29va2llcywgbm8gYmFja2VuZC4KLSAqKkZvbnRzOioqIEdvb2dsZSBGb250cyAoIkNyZWVwc3RlciIgZm9yIHRoZSB0aXRsZSwgIlNwYWNlIEdyb3Rlc2siIGZvcgogIFVJKSDigJQgdGhlIG9ubHkgZXh0ZXJuYWwgYXNzZXQgYWxsb3dlZCwgd2l0aCBzeXN0ZW0tZm9udCBmYWxsYmFja3MuCgojIyBBUEkgcnVsZXMKLSBPbmx5IGZyZWUgcHVibGljIEFQSXMgd2l0aCAqKm5vIGtleSoqIGFuZCAqKmBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW46ICpgKiouCi0gRXZlcnkgQVBJIG11c3QgYmUgdmVyaWZpZWQgd2l0aCBjdXJsIChIVFRQIDIwMCArIENPUlMgaGVhZGVyKSBCRUZPUkUgaXQKICBpcyBhZGRlZCB0byB0aGUgUEFSVFMgcmVnaXN0cnkuIFJlamVjdGVkIHNvIGZhcjogT3Blbi1NZXRlbyAoNDI5IGRhaWx5CiAgbGltaXQgb24gc2hhcmVkIElQKSwgUXVvdGFibGUgKGNvbm5lY3Rpb24gZmFpbGVkKSwgTnVtYmVyc0FQSSAoNDA0KS4KLSBFdmVyeSBmZXRjaCBnb2VzIHRocm91Z2ggYGZldGNoUGFydCgpYCB3aXRoIGFuIGBBYm9ydENvbnRyb2xsZXJgIHRpbWVvdXQKICBvZiAxMCBzIGFuZCBzaGFwZSB2YWxpZGF0aW9uLiBBIGJhZCByZXNwb25zZSBpcyBhIHBlci1wYXJ0IGZhaWx1cmUsIG5ldmVyCiAgYSBwYWdlIGNyYXNoLgotIEZldGNoZXMgZm9yIGEgY3JlYXR1cmUgcnVuIGluIHBhcmFsbGVsIHZpYSBgUHJvbWlzZS5hbGxTZXR0bGVkYC4KCiMjIENvZGUgcnVsZXMKLSBgYXBwLmpzYCBtdXN0IHBhcnNlIGNsZWFuIHVuZGVyIGBub2RlIC0tY2hlY2tgLgotIE5vIGBldmFsYCwgbm8gYGlubmVySFRNTGAgd2l0aCB1bnRydXN0ZWQgQVBJIHN0cmluZ3MgdW5lc2NhcGVkIOKAlCBBUEkgdGV4dAogIGlzIGluc2VydGVkIHZpYSBgdGV4dENvbnRlbnRgIG9yIGVzY2FwZWQgYmVmb3JlIGBpbm5lckhUTUxgLgotIE5vIHRoaXJkLXBhcnR5IGA8c2NyaXB0PmAgdGFncy4gTm8gQ0ROIEphdmFTY3JpcHQuCi0gTm8gc2VjcmV0cywga2V5cywgdG9rZW5zLCBvciBjcmVkZW50aWFscyBhbnl3aGVyZSBpbiB0aGUgcmVwby4gR3JlcCBiZWZvcmUKICBldmVyeSBjb21taXQuCgojIyBWZXJpZmljYXRpb24KLSBgc2NyaXB0cy92ZXJpZnktYXBwLnNoYCBydW5zIHRoZSBzdGF0aWMgZ2F0ZXM6IGZpbGVzIGV4aXN0LCBKUyBwYXJzZXMsCiAgbm8gc2VjcmV0cywgYWxsIGxvY2FsIGFzc2V0IHJlZmVyZW5jZXMgcmVzb2x2ZS4KLSBCcm93c2VyIGdhdGVzIHJ1biBoZWFkbGVzcyBDaHJvbWl1bTogcGFnZSBsb2FkcyB3aXRoIHplcm8gY29uc29sZSBlcnJvcnMsCiAgYWxsIGZsb3dzIGV4ZXJjaXNlZCAoYWRkL3JlbW92ZSBwYXJ0LCByZWZyZXNoLCBzYXZlLCBzaGFyZSBVUkwpLgo=
+# Tech Steering — Frankie: The API Chimera Lab
+
+## Stack
+- **HTML + vanilla JavaScript + CSS.** No framework, no bundler, no build
+  step, no npm dependencies at runtime. The app is three files.
+- **Hosting:** GitHub Pages from the repo root (`main` branch).
+- **Storage:** `localStorage` only (saved creatures). No cookies, no backend.
+- **Fonts:** Google Fonts ("Creepster" for the title, "Space Grotesk" for
+  UI) — the only external asset allowed, with system-font fallbacks.
+
+## API rules
+- Only free public APIs with **no key** and **`Access-Control-Allow-Origin: *`**.
+- Every API must be verified with curl (HTTP 200 + CORS header) BEFORE it
+  is added to the PARTS registry. Rejected so far: Open-Meteo (429 daily
+  limit on shared IP), Quotable (connection failed), NumbersAPI (404).
+- Every fetch goes through `fetchPart()` with an `AbortController` timeout
+  of 10 s and shape validation. A bad response is a per-part failure, never
+  a page crash.
+- Fetches for a creature run in parallel via `Promise.allSettled`.
+
+## Code rules
+- `app.js` must parse clean under `node --check`.
+- No `eval`, no `innerHTML` with untrusted API strings unescaped — API text
+  is inserted via `textContent` or escaped before `innerHTML`.
+- No third-party `<script>` tags. No CDN JavaScript.
+- No secrets, keys, tokens, or credentials anywhere in the repo. Grep before
+  every commit.
+
+## Verification
+- `scripts/verify-app.sh` runs the static gates: files exist, JS parses,
+  no secrets, all local asset references resolve.
+- Browser gates run headless Chromium: page loads with zero console errors,
+  all flows exercised (add/remove part, refresh, save, share URL).
