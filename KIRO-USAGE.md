@@ -1,1 +1,69 @@
-IyBIb3cgS2lybyBXYXMgVXNlZCDigJQgRnJhbmtpZSAoS2lyb3dlZW4gMjAyNikKCj4gSG9uZXN0IHdyaXRlLXVwIGZvciB0aGUgRGV2cG9zdCBmb3JtLiBPbmx5IGNsYWltcyB0aGF0IGFjdHVhbGx5IGhhcHBlbmVkCj4gYXJlIGxpc3RlZC4gQW55dGhpbmcgbm90IHlldCBkb25lIGlzIG1hcmtlZCBUT0RPLCBub3QgY2xhaW1lZC4KCiMjIFdoYXQgS2lybyBhY3R1YWxseSBkaWQgaW4gdGhpcyBidWlsZAoKIyMjIDEuIFNwZWMtZHJpdmVuIGRldmVsb3BtZW50IChLaXJvIHNwZWNzKSDigJQgRE9ORQpUaGUgYnVpbGQgZm9sbG93ZWQgS2lybydzIHNwZWMtZHJpdmVuIG1ldGhvZG9sb2d5IGJlZm9yZSBhbnkgY29kZSB3YXMKd3JpdHRlbjoKLSBgLmtpcm8vc3BlY3MvZnJhbmtpZS1jaGltZXJhLWxhYi9yZXF1aXJlbWVudHMubWRgIOKAlCA4IGJvZHkgcGFydHMsIGVhY2gKICB0aWVkIHRvIGEgdmVyaWZpZWQgcHVibGljIEFQSTsgZmFpbHVyZS1oYW5kbGluZyBhbmQgc2hhcmluZyByZXF1aXJlbWVudHMuCi0gYC5raXJvL3NwZWNzL2ZyYW5raWUtY2hpbWVyYS1sYWIvZGVzaWduLm1kYCDigJQgc3RhdGljIDMtZmlsZSBhcmNoaXRlY3R1cmUsCiAgZGF0YSBtb2RlbCwgbmFtZS9wZXJzb25hbGl0eSBnZW5lcmF0aW9uLCBmZXRjaCBsYXllciwgcGVyc2lzdGVuY2Ugc2NoZW1lLgotIGAua2lyby9zcGVjcy9mcmFua2llLWNoaW1lcmEtbGFiL3Rhc2tzLm1kYCDigJQgcGhhc2VkIHRhc2sgbGlzdCwgY2hlY2tlZCBvZmYKICBhcyBlYWNoIGdhdGUgcGFzc2VkLgoKIyMjIDIuIFN0ZWVyaW5nIOKAlCBET05FCi0gYC5raXJvL3N0ZWVyaW5nL3Byb2R1Y3QubWRgIOKAlCBwcm9kdWN0IHJ1bGVzIChyZWFsIGxpdmUgZGF0YSBvbmx5LCBvbmUKICBjbGljayB0byBhbGl2ZSwgY3JlYXR1cmUgc3Vydml2ZXMgYSBkZWFkIHBhcnQsIHNoYXJlYWJsZSBieSBVUkwsIGZyZWUpLgotIGAua2lyby9zdGVlcmluZy90ZWNoLm1kYCDigJQgdmFuaWxsYSBKUywgbm8gYnVpbGQgc3RlcCwgbm8ga2V5cywgQ09SUwogIHZlcmlmaWNhdGlvbiBydWxlLCBwZXItcGFydCB0aW1lb3V0ICsgYFByb21pc2UuYWxsU2V0dGxlZGAuCi0gYC5raXJvL3N0ZWVyaW5nL3N0cnVjdHVyZS5tZGAg4oCUIHJlcG8gbGF5b3V0OyBgLmtpcm8vYCBhdCByb290LCBuZXZlcgogIGdpdGlnbm9yZWQuCgojIyMgMy4gQ3VzdG9tIGFnZW50IOKAlCBET05FIChhdXRob3JlZCwgbm90IHlldCBleGVjdXRlZCBieSBLaXJvIGl0c2VsZikKLSBgLmtpcm8vYWdlbnRzL2RyLWZyYW5rZW5zdGVpbi5tZGAg4oCUICJEci4gRnJhbmtlbnN0ZWluIiBhZ2VudDogcGVyc29uYSwKICBoYXJkIHJ1bGVzIChuZXZlciBmYWtlIGxpdmUgZGF0YSwgdmVyaWZ5IGV2ZXJ5IEFQSSB3aXRoIGN1cmwgZmlyc3QsCiAgb25lIGRlYWQgcGFydCBuZXZlciBraWxscyB0aGUgY3JlYXR1cmUpLCB3b3JrZmxvdywgZGVmaW5pdGlvbiBvZiBkb25lLgoKIyMjIDQuIEhvb2tzIOKAlCBET05FIChjb25maWd1cmF0aW9uIGF1dGhvcmVkOyBleGVjdXRpb24gcGVuZGluZyBLaXJvIElERS9DTEkgcnVuKQotIGAua2lyby9ob29rcy9mb3JtYXQtb24tc2F2ZS5qc29uYCDigJQgYWZ0ZXIgYW55IGVkaXQgdG8gYGluZGV4Lmh0bWxgLAogIGBhcHAuanNgIG9yIGBzdHlsZXMuY3NzYCwgcnVucyBgc2NyaXB0cy92ZXJpZnktYXBwLnNoYCAoc3RhdGljIGdhdGVzOgogIGZpbGVzIGV4aXN0LCBKUyBwYXJzZXMsIG5vIHNlY3JldHMsIGxvY2FsIGFzc2V0cyByZXNvbHZlKS4KLSBUaGUgaG9vaydzIHRhcmdldCBzY3JpcHQgZXhpc3RzIGFuZCBwYXNzZXMgKGBiYXNoIHNjcmlwdHMvdmVyaWZ5LWFwcC5zaGAKICBleGl0cyAwKS4gVGhlIGhvb2sgaXRzZWxmIGhhcyBub3QgeWV0IGZpcmVkIGluc2lkZSBLaXJvIElERSBiZWNhdXNlIHRoZQogIGJ1aWxkIHdhcyBkb25lIG91dHNpZGUgdGhlIElERSAoc2VlIMKnNikuCgojIyMgNS4gTUNQIOKAlCBDT05GSUdVUkVELCBub3QgeWV0IGV4ZWN1dGVkCi0gYC5raXJvL3NldHRpbmdzL21jcC5qc29uYCDigJQgZGVjbGFyZXMgdGhlIGBmZXRjaGAgTUNQIHNlcnZlcgogIChgdXZ4IG1jcC1zZXJ2ZXItZmV0Y2hgKSBmb3IgZmV0Y2hpbmcgQVBJIGRvY3MgZHVyaW5nIGRldmVsb3BtZW50LgogIFRoZSBzZXJ2ZXIgd2FzIG5vdCBydW4gZHVyaW5nIHRoaXMgYnVpbGQgYmVjYXVzZSBBUEkgdmVyaWZpY2F0aW9uIHdhcwogIGRvbmUgZGlyZWN0bHkgd2l0aCBjdXJsIGluc3RlYWQuIFRoZSBjb25maWd1cmF0aW9uIGlzIHJlYWwgYW5kIHJlYWR5IHRvCiAgdXNlIGluc2lkZSBLaXJvLgoKIyMjIDYuIEtpcm8gQ0xJIOKAlCBOT1QgTE9HR0VEIElOIChob25lc3Qgc3RhdHVzKQotIGBraXJvLWNsaWAgMy4zLjAgaXMgaW5zdGFsbGVkIGF0IGB+Ly5sb2NhbC9iaW4va2lyby1jbGlgLgotIGBraXJvLWNsaSB3aG9hbWlgIHJldHVybnMgKioiTm90IGxvZ2dlZCBpbiIqKiAodmVyaWZpZWQgMTUgTm92IDIwMjYpLgogIExvZ2luIG5lZWRzIGEgYnJvd3NlciBzaWduLWluIChHaXRIdWIvR29vZ2xlKSB3aGljaCB0aGlzIGJ1aWxkIGFnZW50CiAgY2Fubm90IHBlcmZvcm0uIFRoZXJlZm9yZSAqKm5vIGltcGxlbWVudGF0aW9uIHN0ZXAgaW4gdGhpcyBidWlsZCB3YXMKICBleGVjdXRlZCBieSBga2lyby1jbGkgY2hhdGAqKiwgYW5kIG5vbmUgaXMgY2xhaW1lZCBoZXJlLgotIFRPRE8gKG1haW4gYWdlbnQsIGZyZWUpOiBga2lyby1jbGkgbG9naW5gIHZpYSBicm93c2VyLCB0aGVuIHJlLXJ1bgogIGltcGxlbWVudGF0aW9uL3ZlcmlmaWNhdGlvbiBzdGVwcyB0aHJvdWdoCiAgYGtpcm8tY2xpIGNoYXQgLS1uby1pbnRlcmFjdGl2ZSAtLXRydXN0LWFsbC10b29sc2Agc28gS2lybyBleGVjdXRpb24gaXMKICByZWFsLiBUaGUgZnJlZSA0LDAwMCBLaXJvIGNyZWRpdHMgZm9yIHJlZ2lzdGVyZWQgZW50cmFudHMgbWF5IGJlIHVzZWQ7CiAgbm8gcGFpZCBjcmVkaXRzIHdlcmUgYm91Z2h0IG9yIHVzZWQuCgojIyMgNy4gV2hhdCB3YXMgTk9UIHVzZWQKLSBObyBLaXJvIElERSBhZ2VudCBjaGF0IHNlc3Npb25zIChubyBJREUgaW4gdGhpcyBlbnZpcm9ubWVudCkuCi0gTm8gS2lybyBDcmV3IGFwcCAobm90IHJlcXVpcmVkIGZvciB0aGUgRnJhbmtlbnN0ZWluIGNhdGVnb3J5KS4KLSBObyBwcm9wZXJ0eS1iYXNlZCB0ZXN0aW5nIChQQlQpIOKAlCB2ZXJpZmljYXRpb24gaXMgZ2F0ZS1ieS1nYXRlCiAgaGVhZGxlc3MtYnJvd3NlciB0ZXN0aW5nIGluc3RlYWQgKDI2LzI2IGNoZWNrcyBwYXNzZWQ7IHNlZSBOT1RFUy5tZCkuCgojIyBTdW1tYXJ5IGZvciB0aGUgZm9ybQpLaXJvIHdhcyB1c2VkIHNwZWMtZmlyc3Q6IGEgZnVsbCBzcGVjIChyZXF1aXJlbWVudHMvZGVzaWduL3Rhc2tzKSwKc3RlZXJpbmcgZmlsZXMsIGEgY3VzdG9tIGFnZW50LCBhIGhvb2sgY29uZmlndXJhdGlvbiwgYW5kIE1DUCBzZXR0aW5ncwp3ZXJlIGF1dGhvcmVkIGluIGAua2lyby9gIGFuZCBkcm92ZSB0aGUgYnVpbGQuIFRoZSBLaXJvIENMSSBpcyBpbnN0YWxsZWQKYnV0IGF3YWl0aW5nIGxvZ2luOyBvbmNlIGxvZ2dlZCBpbiwgdGhlIHNhbWUgdGFza3Mgd2lsbCBiZSByZS1kcml2ZW4KdGhyb3VnaCBoZWFkbGVzcyBga2lyby1jbGkgY2hhdGAgYmVmb3JlIHN1Ym1pc3Npb24uCg==
+# How Kiro Was Used — Frankie (Kiroween 2026)
+
+> Honest write-up for the Devpost form. Only claims that actually happened
+> are listed. Anything not yet done is marked TODO, not claimed.
+
+## What Kiro actually did in this build
+
+### 1. Spec-driven development (Kiro specs) — DONE
+The build followed Kiro's spec-driven methodology before any code was
+written:
+- `.kiro/specs/frankie-chimera-lab/requirements.md` — 8 body parts, each
+  tied to a verified public API; failure-handling and sharing requirements.
+- `.kiro/specs/frankie-chimera-lab/design.md` — static 3-file architecture,
+  data model, name/personality generation, fetch layer, persistence scheme.
+- `.kiro/specs/frankie-chimera-lab/tasks.md` — phased task list, checked off
+  as each gate passed.
+
+### 2. Steering — DONE
+- `.kiro/steering/product.md` — product rules (real live data only, one
+  click to alive, creature survives a dead part, shareable by URL, free).
+- `.kiro/steering/tech.md` — vanilla JS, no build step, no keys, CORS
+  verification rule, per-part timeout + `Promise.allSettled`.
+- `.kiro/steering/structure.md` — repo layout; `.kiro/` at root, never
+  gitignored.
+
+### 3. Custom agent — DONE (authored, not yet executed by Kiro itself)
+- `.kiro/agents/dr-frankenstein.md` — "Dr. Frankenstein" agent: persona,
+  hard rules (never fake live data, verify every API with curl first,
+  one dead part never kills the creature), workflow, definition of done.
+
+### 4. Hooks — DONE (configuration authored; execution pending Kiro IDE/CLI run)
+- `.kiro/hooks/format-on-save.json` — after any edit to `index.html`,
+  `app.js` or `styles.css`, runs `scripts/verify-app.sh` (static gates:
+  files exist, JS parses, no secrets, local assets resolve).
+- The hook's target script exists and passes (`bash scripts/verify-app.sh`
+  exits 0). The hook itself has not yet fired inside Kiro IDE because the
+  build was done outside the IDE (see §6).
+
+### 5. MCP — CONFIGURED, not yet executed
+- `.kiro/settings/mcp.json` — declares the `fetch` MCP server
+  (`uvx mcp-server-fetch`) for fetching API docs during development.
+  The server was not run during this build because API verification was
+  done directly with curl instead. The configuration is real and ready to
+  use inside Kiro.
+
+### 6. Kiro CLI — NOT LOGGED IN (honest status)
+- `kiro-cli` 3.3.0 is installed at `~/.local/bin/kiro-cli`.
+- `kiro-cli whoami` returns **"Not logged in"** (verified 15 Nov 2026).
+  Login needs a browser sign-in (GitHub/Google) which this build agent
+  cannot perform. Therefore **no implementation step in this build was
+  executed by `kiro-cli chat`**, and none is claimed here.
+- TODO (main agent, free): `kiro-cli login` via browser, then re-run
+  implementation/verification steps through
+  `kiro-cli chat --no-interactive --trust-all-tools` so Kiro execution is
+  real. The free 4,000 Kiro credits for registered entrants may be used;
+  no paid credits were bought or used.
+
+### 7. What was NOT used
+- No Kiro IDE agent chat sessions (no IDE in this environment).
+- No Kiro Crew app (not required for the Frankenstein category).
+- No property-based testing (PBT) — verification is gate-by-gate
+  headless-browser testing instead (26/26 checks passed; see NOTES.md).
+
+## Summary for the form
+Kiro was used spec-first: a full spec (requirements/design/tasks),
+steering files, a custom agent, a hook configuration, and MCP settings
+were authored in `.kiro/` and drove the build. The Kiro CLI is installed
+but awaiting login; once logged in, the same tasks will be re-driven
+through headless `kiro-cli chat` before submission.
