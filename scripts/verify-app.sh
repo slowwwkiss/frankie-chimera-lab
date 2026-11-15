@@ -1,1 +1,57 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFN0YXRpYyBnYXRlIGNoZWNrcyBmb3IgRnJhbmtpZSDigJQgVGhlIEFQSSBDaGltZXJhIExhYi4KIyBVc2VkIGJ5IHRoZSBLaXJvIGhvb2sgLmtpcm8vaG9va3MvZm9ybWF0LW9uLXNhdmUuanNvbiAoYWZ0ZXJGaWxlRWRpdCkuCiMgRXhpdHMgMCBvbmx5IGlmIGV2ZXJ5IGNoZWNrIHBhc3Nlcy4Kc2V0IC11ClJPT1Q9IiQoY2QgIiQoZGlybmFtZSAiJDAiKS8uLiIgJiYgcHdkKSIKRkFJTD0wCgpjaGVjaygpIHsgIyBjaGVjayA8ZGVzY3JpcHRpb24+IDxjb21tYW5kLi4uPgogIGxvY2FsIGRlc2M9IiQxIjsgc2hpZnQKICBpZiAiJEAiID4vZGV2L251bGwgMj4mMTsgdGhlbiBlY2hvICJQQVNTOiAkZGVzYyI7IGVsc2UgZWNobyAiRkFJTDogJGRlc2MiOyBGQUlMPTE7IGZpCn0KCmNoZWNrICJpbmRleC5odG1sIGV4aXN0cyIgdGVzdCAtZiAiJFJPT1QvaW5kZXguaHRtbCIKY2hlY2sgImFwcC5qcyBleGlzdHMiIHRlc3QgLWYgIiRST09UL2FwcC5qcyIKY2hlY2sgInN0eWxlcy5jc3MgZXhpc3RzIiB0ZXN0IC1mICIkUk9PVC9zdHlsZXMuY3NzIgpjaGVjayAiTElDRU5TRSBleGlzdHMiIHRlc3QgLWYgIiRST09UL0xJQ0VOU0UiCmNoZWNrICJSRUFETUUubWQgZXhpc3RzIiB0ZXN0IC1mICIkUk9PVC9SRUFETUUubWQiCmNoZWNrICIua2lyby9zcGVjcyBwcmVzZW50IiB0ZXN0IC1mICIkUk9PVC8ua2lyby9zcGVjcy9mcmFua2llLWNoaW1lcmEtbGFiL3JlcXVpcmVtZW50cy5tZCIKY2hlY2sgIi5raXJvL3N0ZWVyaW5nIHByZXNlbnQiIHRlc3QgLWYgIiRST09ULy5raXJvL3N0ZWVyaW5nL3Byb2R1Y3QubWQiCmNoZWNrICIua2lyby9ob29rcyBwcmVzZW50IiB0ZXN0IC1mICIkUk9PVC8ua2lyby9ob29rcy9mb3JtYXQtb24tc2F2ZS5qc29uIgpjaGVjayAiLmtpcm8vYWdlbnRzIHByZXNlbnQiIHRlc3QgLWYgIiRST09ULy5raXJvL2FnZW50cy9kci1mcmFua2Vuc3RlaW4ubWQiCmNoZWNrICIua2lyby9zZXR0aW5ncy9tY3AuanNvbiBwcmVzZW50IiB0ZXN0IC1mICIkUk9PVC8ua2lyby9zZXR0aW5ncy9tY3AuanNvbiIKCmlmIGNvbW1hbmQgLXYgbm9kZSA+L2Rldi9udWxsIDI+JjE7IHRoZW4KICBjaGVjayAiYXBwLmpzIHBhcnNlcyAobm9kZSAtLWNoZWNrKSIgbm9kZSAtLWNoZWNrICIkUk9PVC9hcHAuanMiCmVsc2UKICBlY2hvICJTS0lQOiBub2RlIG5vdCBpbnN0YWxsZWQsIEpTIHBhcnNlIGNoZWNrIHNraXBwZWQiCmZpCgojIE5vIHJlYWwgc2VjcmV0czogbG9vayBmb3IgY3JlZGVudGlhbCBWQUxVRVMgLyBhc3NpZ25tZW50cywgbm90IHRoZSBwcm9zZQojIHdvcmRzICJzZWNyZXQva2V5L3Rva2VuIiAod2hpY2ggYXBwZWFyIGxlZ2l0aW1hdGVseSBpbiBkb2NzKS4KaWYgZ3JlcCAtcm5pRSAiQUtJQVswLTlBLVpdezE2fXxnaHBfW0EtWmEtejAtOV17MjAsfXxnaG9fW0EtWmEtejAtOV17MjAsfXxzay1bQS1aYS16MC05XXsyMCx9fHhveFtiYXByc10tW0EtWmEtejAtOS1dezEwLH18KGFwaVtfLV0/a2V5fHBhc3N3ZHxwYXNzd29yZHxjbGllbnRfc2VjcmV0KVxzKls6PV1ccypbJ1wiXVteJ1wiXXs0LH0iIFwKICAgICIkUk9PVCIgLS1leGNsdWRlLWRpcj0uZ2l0IC0tZXhjbHVkZT12ZXJpZnktYXBwLnNoOyB0aGVuCiAgZWNobyAiRkFJTDogcG9zc2libGUgc2VjcmV0L2tleSB2YWx1ZSBmb3VuZCAoc2VlIGFib3ZlKSIKICBGQUlMPTEKZWxzZQogIGVjaG8gIlBBU1M6IG5vIHNlY3JldC9rZXkgdmFsdWVzIGZvdW5kIgpmaQoKIyAua2lybyBtdXN0IE5PVCBiZSBnaXRpZ25vcmVkIChLaXJvd2VlbiBkaXNxdWFsaWZpY2F0aW9uIHJpc2spLgppZiBbIC1mICIkUk9PVC8uZ2l0aWdub3JlIiBdICYmIGdyZXAgLXEgIl5cLmtpcm8iICIkUk9PVC8uZ2l0aWdub3JlIjsgdGhlbgogIGVjaG8gIkZBSUw6IC5raXJvIGlzIGdpdGlnbm9yZWQiCiAgRkFJTD0xCmVsc2UKICBlY2hvICJQQVNTOiAua2lybyBpcyBub3QgZ2l0aWdub3JlZCIKZmkKCiMgTG9jYWwgYXNzZXQgcmVmZXJlbmNlcyBpbiBpbmRleC5odG1sIG11c3QgcmVzb2x2ZSB0byByZWFsIGZpbGVzLgpNSVNTSU5HPTAKZm9yIHJlZiBpbiAkKGdyZXAgLW9FICcoc3JjfGhyZWYpPSJbXiJdK1wuKGpzfGNzcykiJyAiJFJPT1QvaW5kZXguaHRtbCIgfCBzZWQgLUUgJ3MvXihzcmN8aHJlZik9IihbXiJdKykiL1wyLycgfCBncmVwIC12ICJeaHR0cHNcPzovLyIpOyBkbwogIGlmIFsgISAtZiAiJFJPT1QvJHJlZiIgXTsgdGhlbiBlY2hvICJGQUlMOiBtaXNzaW5nIGxvY2FsIGFzc2V0OiAkcmVmIjsgTUlTU0lORz0xOyBmaQpkb25lClsgIiRNSVNTSU5HIiAtZXEgMCBdICYmIGVjaG8gIlBBU1M6IGFsbCBsb2NhbCBhc3NldHMgcmVzb2x2ZSIKWyAiJE1JU1NJTkciIC1lcSAxIF0gJiYgRkFJTD0xCgpleGl0ICRGQUlMCg==
+#!/usr/bin/env bash
+# Static gate checks for Frankie — The API Chimera Lab.
+# Used by the Kiro hook .kiro/hooks/format-on-save.json (afterFileEdit).
+# Exits 0 only if every check passes.
+set -u
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+FAIL=0
+
+check() { # check <description> <command...>
+  local desc="$1"; shift
+  if "$@" >/dev/null 2>&1; then echo "PASS: $desc"; else echo "FAIL: $desc"; FAIL=1; fi
+}
+
+check "index.html exists" test -f "$ROOT/index.html"
+check "app.js exists" test -f "$ROOT/app.js"
+check "styles.css exists" test -f "$ROOT/styles.css"
+check "LICENSE exists" test -f "$ROOT/LICENSE"
+check "README.md exists" test -f "$ROOT/README.md"
+check ".kiro/specs present" test -f "$ROOT/.kiro/specs/frankie-chimera-lab/requirements.md"
+check ".kiro/steering present" test -f "$ROOT/.kiro/steering/product.md"
+check ".kiro/hooks present" test -f "$ROOT/.kiro/hooks/format-on-save.json"
+check ".kiro/agents present" test -f "$ROOT/.kiro/agents/dr-frankenstein.md"
+check ".kiro/settings/mcp.json present" test -f "$ROOT/.kiro/settings/mcp.json"
+
+if command -v node >/dev/null 2>&1; then
+  check "app.js parses (node --check)" node --check "$ROOT/app.js"
+else
+  echo "SKIP: node not installed, JS parse check skipped"
+fi
+
+# No real secrets: look for credential VALUES / assignments, not the prose
+# words "secret/key/token" (which appear legitimately in docs).
+if grep -rniE "AKIA[0-9A-Z]{16}|ghp_[A-Za-z0-9]{20,}|gho_[A-Za-z0-9]{20,}|sk-[A-Za-z0-9]{20,}|xox[baprs]-[A-Za-z0-9-]{10,}|(api[_-]?key|passwd|password|client_secret)\s*[:=]\s*['\"][^'\"]{4,}" \
+    "$ROOT" --exclude-dir=.git --exclude=verify-app.sh; then
+  echo "FAIL: possible secret/key value found (see above)"
+  FAIL=1
+else
+  echo "PASS: no secret/key values found"
+fi
+
+# .kiro must NOT be gitignored (Kiroween disqualification risk).
+if [ -f "$ROOT/.gitignore" ] && grep -q "^\.kiro" "$ROOT/.gitignore"; then
+  echo "FAIL: .kiro is gitignored"
+  FAIL=1
+else
+  echo "PASS: .kiro is not gitignored"
+fi
+
+# Local asset references in index.html must resolve to real files.
+MISSING=0
+for ref in $(grep -oE '(src|href)="[^"]+\.(js|css)"' "$ROOT/index.html" | sed -E 's/^(src|href)="([^"]+)"/\2/' | grep -v "^https\?://"); do
+  if [ ! -f "$ROOT/$ref" ]; then echo "FAIL: missing local asset: $ref"; MISSING=1; fi
+done
+[ "$MISSING" -eq 0 ] && echo "PASS: all local assets resolve"
+[ "$MISSING" -eq 1 ] && FAIL=1
+
+exit $FAIL
