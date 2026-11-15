@@ -1,1 +1,110 @@
-IyBEZXNpZ24g4oCUIEZyYW5raWU6IFRoZSBBUEkgQ2hpbWVyYSBMYWIKCiMjIDEuIEFyY2hpdGVjdHVyZQoKU3RhdGljIHNpbmdsZS1wYWdlIGFwcCwgdGhyZWUgZmlsZXMsIG5vIGZyYW1ld29yazoKCmBgYAppbmRleC5odG1sICAg4oCUIHN0cnVjdHVyZSArIHBhcnQgcGlja2VyICsgY3JlYXR1cmUgc3RhZ2UgKyBzYXZlZCBsaXN0CnN0eWxlcy5jc3MgICDigJQgbGFiIHRoZW1lIChkYXJrLCBncmVlbiBnbG93LCBDU1MgbW9uc3RlciBzaWxob3VldHRlKQphcHAuanMgICAgICAg4oCUIGFsbCBsb2dpYyAoRVMgbW9kdWxlLWZyZWUgdmFuaWxsYSBKUywgcnVucyBpbiBhbnkgbW9kZXJuIGJyb3dzZXIpCmBgYAoKTm8gYnVpbGQgc3RlcC4gTm8gYnVuZGxlci4gTm8gYmFja2VuZC4gSG9zdGluZyB0YXJnZXQ6IEdpdEh1YiBQYWdlcwooYHNsb3d3d2tpc3MvZnJhbmtpZS1jaGltZXJhLWxhYmAsIGBtYWluYCBicmFuY2gsIHJvb3QpLgoKIyMgMi4gRGF0YSBtb2RlbAoKYGBganMKLy8gQSBib2R5IHBhcnQgZGVmaW5pdGlvbiAoc3RhdGljIHJlZ2lzdHJ5KQpQQVJUID0gewogIGlkOiAiYnJhaW4iLCAgICAgICAgICAgIC8vIHN0YWJsZSBpZCwgdXNlZCBpbiBVUkwgaGFzaCArIGxvY2FsU3RvcmFnZQogIG5hbWU6ICJCcmFpbiIsICAgICAgICAgIC8vIGRpc3BsYXkgbmFtZSAocGxhaW4gdGV4dCBsYWJlbCwgbm8gZW1vamkgaW4gVUkpCiAgYXBpOiAiaHR0cHM6Ly9hcGkuYWR2aWNlc2xpcC5jb20vYWR2aWNlIiwKICBzb3VyY2VOYW1lOiAiQWR2aWNlIFNsaXAiLAogIHNvdXJjZVVybDogImh0dHBzOi8vYXBpLmFkdmljZXNsaXAuY29tLyIsCiAgZmV0Y2g6IGFzeW5jICgpID0+IHsuLi59LCAgIC8vIHJldHVybnMgeyBodG1sLCB0ZXh0IH0gcmVuZGVyIHBheWxvYWQKICB0aW1lb3V0TXM6IDEwMDAwCn0KCi8vIEEgbGl2ZSBjcmVhdHVyZSAocnVudGltZSBzdGF0ZSkKY3JlYXR1cmUgPSB7CiAgcGFydHM6IFsiYnJhaW4iLCAiaGVhcnQiXSwgICAvLyBzZWxlY3RlZCBwYXJ0IGlkcyAoMuKAkzQpCiAgbmFtZTogIlpPUlAgVEhFIENISUxMWSBKT0tFUiIsCiAgcGVyc29uYWxpdHk6ICLigKYiLAogIGRhdGE6IHsgYnJhaW46IHtvazp0cnVlLCBodG1sOiLigKYiLCBmZXRjaGVkQXQ6IuKApiJ9LCBoZWFydDoge29rOmZhbHNlLCBlcnJvcjoi4oCmIn0gfSwKICBjcmVhdGVkQXQ6IElTTyBzdHJpbmcKfQpgYGAKCiMjIDMuIE5hbWUgKyBwZXJzb25hbGl0eSBnZW5lcmF0aW9uCgotIE5hbWU6IGRldGVybWluaXN0aWMgZnJvbSB0aGUgc29ydGVkIHBhcnQgaWRzLgogIGBwcmVmaXhbaGFzaF0gKyAiICIgKyBjb3JlW2hhc2hdICsgIiAiICsgc3VmZml4W2hhc2hdYC4KICBQcmVmaXhlczogWk9SUCwgQk9MVCwgR1JJTU0sIFZPTFQsIE1PUlQsIEZSQU5LLCBJR09SLCBMVVJDSOKApgogIENvcmVzOiBUSEUsIFZPTiwgTUMsIERS4oCmCiAgU3VmZml4ZXM6IFRIRSBDSElMTFkgSk9LRVIsIFRIRSBXQU5ERVJJTkcgTUlORCwgVEhFIEdPTERFTiBIRUFSVOKApgogIFNhbWUgcGFydCBjb21ibyDihpIgc2FtZSBuYW1lLCBldmVyeSB0aW1lIChoYXNoID0gc3VtIG9mIGNoYXIgY29kZXMpLgotIFBlcnNvbmFsaXR5OiB0ZW1wbGF0ZSBzbG90cyBmaWxsZWQgZnJvbSBsaXZlIGRhdGEsIGUuZy4KICBqb2tlIHByZXNlbnQgKyB0ZW1wIDwgMTAgwrBDIOKGkiAiYSBjaGlsbHkgam9rZXIgd2hvIGxhdWdocyBhdCB0aGUgY29sZCI7CiAgQlRDIHVwICsgYWR2aWNlIHByZXNlbnQg4oaSICJhbiBvcHRpbWlzdGljIHRoaW5rZXIgcmlkaW5nIHRoZSBtYXJrZXQiLgogIEZhbGxiYWNrIGxpbmUgaWYgZGF0YSBpcyB0aGluOiAiYSBteXN0ZXJpb3VzIGNyZWF0dXJlIG9mIHN0aXRjaGVkLXRvZ2V0aGVyIGRhdGEuIgoKIyMgNC4gRmV0Y2ggbGF5ZXIKCi0gT25lIGBmZXRjaFBhcnQocGFydClgIHBlciBwYXJ0OiBgZmV0Y2hgICsgYEFib3J0Q29udHJvbGxlcmAgdGltZW91dAogICgxMCBzKSDihpIgcGFyc2UgSlNPTiDihpIgdmFsaWRhdGUgc2hhcGUg4oaSIHJldHVybiByZW5kZXIgcGF5bG9hZC4KICBBbnkgdGhyb3cg4oaSIGB7IG9rOmZhbHNlLCBlcnJvcjogc2hvcnQgbWVzc2FnZSB9YC4KLSBgYnJpbmdUb0xpZmUoKWA6IGBQcm9taXNlLmFsbFNldHRsZWQoc2VsZWN0ZWQubWFwKGZldGNoUGFydCkpYCDigJQgb25lIGJhZAogIEFQSSBjYW4gbmV2ZXIga2lsbCB0aGUgY3JlYXR1cmUuCi0gRWFjaCBwYXJ0IGNhcmQgc2hvd3MgaXRzIG93biBmZXRjaCB0aW1lIChgbmV3IERhdGUoKS50b0xvY2FsZVRpbWVTdHJpbmcoKWApLgoKIyMgNS4gUGVyc2lzdGVuY2UgJiBzaGFyaW5nCgotIGxvY2FsU3RvcmFnZSBrZXkgYGZyYW5raWUuc2F2ZWQudjFgOiBKU09OIGFycmF5IG9mIHNhdmVkIGNyZWF0dXJlcwogIChtYXggMTIsIG5ld2VzdCBmaXJzdCkuIFNhdmUgc3RvcmVzIHBhcnRzICsgZmV0Y2hlZCBwYXlsb2FkcyArIG5hbWUgKwogIHRpbWVzdGFtcC4gTG9hZCByZXN0b3JlcyB0aGUgcmVuZGVyZWQgY3JlYXR1cmUgYXMtaXMgKG5vIHJlLWZldGNoKS4KLSBTaGFyZSBVUkw6IGAjYz08YmFzZTY0dXJsKEpTT04ge3Y6MSwgcGFydHM6Wy4uLl19KT5gLgogIE9uIGxvYWQsIGlmIHRoZSBoYXNoIHBhcnNlcyBhbmQgaGFzIDLigJM0IGtub3duIHBhcnQgaWRzLCBhdXRvLXNlbGVjdCB0aG9zZQogIHBhcnRzIGFuZCBicmluZyB0aGUgY3JlYXR1cmUgdG8gbGlmZSB3aXRoIGZyZXNoIGZldGNoZXMuCiAgVW5rbm93biBpZHMgYXJlIGRyb3BwZWQ7IGZld2VyIHRoYW4gMiB2YWxpZCBpZHMg4oaSIGlnbm9yZSB0aGUgaGFzaC4KCiMjIDYuICJJVCdTIEFMSVZFISIgbW9tZW50CgotIE9uIGZpcnN0IHN1Y2Nlc3NmdWwgYGJyaW5nVG9MaWZlYCBwZXIgcGFnZSBzZXNzaW9uOiBmdWxsLXNjcmVlbiBvdmVybGF5CiAgKENTUyBsaWdodG5pbmcgZmxhc2ggKyBiaWcgIklUJ1MgQUxJVkUhIiB0ZXh0KSBmb3IgfjEuMiBzLCB0aGVuIGZhZGVzLgogIFB1cmUgQ1NTIGFuaW1hdGlvbiB0cmlnZ2VyZWQgYnkgYWRkaW5nIGEgY2xhc3M7IG5vIGF1ZGlvIChhdXRvcGxheSBydWxlcykuCi0gU3Vic2VxdWVudCByZS1hbmltYXRpb25zIHVzZSBhIHNtYWxsIGlubGluZSBmbGFzaCBvbiB0aGUgY3JlYXR1cmUgY2FyZCBvbmx5LgoKIyMgNy4gU3R5bGluZwoKLSBQYWxldHRlOiBuZWFyLWJsYWNrIGAjMGEwZjBhYCBiYWNrZ3JvdW5kLCBsYWIgZ3JlZW4gYCMzOWZmNmFgIGFjY2VudHMsCiAgYW1iZXIgYCNmZmIzMDBgIHdhcm5pbmdzLCBib25lIGAjZThlNGQ4YCB0ZXh0LgotIEZvbnQ6IEdvb2dsZSBGb250cyAiQ3JlZXBzdGVyIiBmb3IgdGhlIGxhYiB0aXRsZSArICJTcGFjZSBHcm90ZXNrIiBmb3IgVUkKICAod2l0aCBzeXN0ZW0tZm9udCBmYWxsYmFja3MgaWYgdGhlIGZvbnQgQ0ROIGlzIHVucmVhY2hhYmxlKS4KLSBNb25zdGVyIHNpbGhvdWV0dGU6IGlubGluZSBTVkcgaW4gdGhlIGNyZWF0dXJlIGhlYWRlciAoc3RpdGNoZWQgYm9keQogIG91dGxpbmUpOyBlYWNoIGF0dGFjaGVkIHBhcnQgY2FyZCBpcyB2aXN1YWxseSAiYm9sdGVkIG9uIiB3aXRoIGEgYm9sdAogIG1hcmtlciAoQ1NTIGA6OmJlZm9yZWAsIGEgYCtgIHN0aXRjaCBtYXJrLCBub3QgYW4gZW1vamkpLgoKIyMgOC4gRXJyb3Igc3RhdGVzCgp8IFNpdHVhdGlvbiB8IFVJIHwKfC0tLXwtLS18CnwgT25lIHBhcnQgZmFpbHMgfCBUaGF0IGNhcmQgc2hvd3MgIlBBUlQgRklaWkxFRCIgKyBlcnJvciArIHJldHJ5LW9uZS1wYXJ0IGJ1dHRvbiB8CnwgQWxsIHBhcnRzIGZhaWwgfCBTdGFnZSBzaG93cyBsYWItd2lkZSBlcnJvciArICJSZXRyeSB0aGUgZXhwZXJpbWVudCIgYnV0dG9uIHwKfCA8IDIgcGFydHMgc2VsZWN0ZWQgfCBCcmluZy10by1saWZlIGRpc2FibGVkICsgaGludCB0ZXh0IHwKfCBCYWQgc2hhcmUgaGFzaCB8IEhhc2ggaWdub3JlZCwgbm9ybWFsIHBpY2tlciBzaG93biwgY29uc29sZSB3YXJuaW5nIG9ubHkgfAp8IGxvY2FsU3RvcmFnZSBmdWxsL3VuYXZhaWxhYmxlIHwgU2F2ZSBidXR0b24gc2hvd3MgInN0b3JhZ2UgdW5hdmFpbGFibGUiIG5vdGUsIGFwcCBrZWVwcyB3b3JraW5nIHwKCiMjIDkuIFRlc3RpbmcgcGxhbiAobWFudWFsLCBnYXRlLWJ5LWdhdGUpCgoxLiBTZXJ2ZSBsb2NhbGx5IChgcHl0aG9uMyAtbSBodHRwLnNlcnZlciA4MTIzYCksIGN1cmwgZXZlcnkgZmlsZSDihpIgMjAwLgoyLiBIZWFkbGVzcyBDaHJvbWl1bTogbG9hZCBwYWdlLCBhc3NlcnQgemVybyBjb25zb2xlIGVycm9ycywgc2NyZWVuc2hvdC4KMy4gQ2xpY2sgMyBwYXJ0cyDihpIgQnJpbmcgdG8gbGlmZSDihpIgYWxsIGNhcmRzIHNob3cgbGl2ZSBkYXRhIChub3QgbW9jaykuCjQuIFJlbW92ZSBhIHBhcnQsIHJlLWFuaW1hdGUsIHZlcmlmeSB0aGUgY2FyZCBkaXNhcHBlYXJzLgo1LiBTYXZlIGNyZWF0dXJlIOKGkiByZWxvYWQg4oaSIHNhdmVkIGNyZWF0dXJlIGxpc3RlZCDihpIgY2xpY2sg4oaSIHJlc3RvcmVkLgo2LiBDb3B5IHNoYXJlIGxpbmsg4oaSIG9wZW4gaW4gYSBjbGVhbiBDaHJvbWl1bSBwcm9maWxlIOKGkiBzYW1lIHBhcnRzLCBmcmVzaCBkYXRhLgo3LiBCbG9jayBuZXR3b3JrIGZvciBvbmUgQVBJIChkZXZ0b29scyBvZmZsaW5lIHBlci1yZXF1ZXN0IGlzIG5vdCBhdmFpbGFibGUKICAgaGVhZGxlc3M7IGluc3RlYWQgdGVzdCB0aGUgZmFsbGJhY2sgYnkgcG9pbnRpbmcgYSBwYXJ0IGF0IGEgZGVhZCBVUkwgaW4gYQogICBzY3JhdGNoIGNvcHkpIOKGkiBlcnJvciBjYXJkIHJlbmRlcnMsIGNyZWF0dXJlIHN1cnZpdmVzLgo4LiBgZ3JlcCAtcmlgIGZvciBrZXlzL3NlY3JldHMg4oaSIG5vbmUuCg==
+# Design — Frankie: The API Chimera Lab
+
+## 1. Architecture
+
+Static single-page app, three files, no framework:
+
+```
+index.html   — structure + part picker + creature stage + saved list
+styles.css   — lab theme (dark, green glow, CSS monster silhouette)
+app.js       — all logic (ES module-free vanilla JS, runs in any modern browser)
+```
+
+No build step. No bundler. No backend. Hosting target: GitHub Pages
+(`slowwwkiss/frankie-chimera-lab`, `main` branch, root).
+
+## 2. Data model
+
+```js
+// A body part definition (static registry)
+PART = {
+  id: "brain",            // stable id, used in URL hash + localStorage
+  name: "Brain",          // display name (plain text label, no emoji in UI)
+  api: "https://api.adviceslip.com/advice",
+  sourceName: "Advice Slip",
+  sourceUrl: "https://api.adviceslip.com/",
+  fetch: async () => {...},   // returns { html, text } render payload
+  timeoutMs: 10000
+}
+
+// A live creature (runtime state)
+creature = {
+  parts: ["brain", "heart"],   // selected part ids (2–4)
+  name: "ZORP THE CHILLY JOKER",
+  personality: "…",
+  data: { brain: {ok:true, html:"…", fetchedAt:"…"}, heart: {ok:false, error:"…"} },
+  createdAt: ISO string
+}
+```
+
+## 3. Name + personality generation
+
+- Name: deterministic from the sorted part ids.
+  `prefix[hash] + " " + core[hash] + " " + suffix[hash]`.
+  Prefixes: ZORP, BOLT, GRIMM, VOLT, MORT, FRANK, IGOR, LURCH…
+  Cores: THE, VON, MC, DR…
+  Suffixes: THE CHILLY JOKER, THE WANDERING MIND, THE GOLDEN HEART…
+  Same part combo → same name, every time (hash = sum of char codes).
+- Personality: template slots filled from live data, e.g.
+  joke present + temp < 10 °C → "a chilly joker who laughs at the cold";
+  BTC up + advice present → "an optimistic thinker riding the market".
+  Fallback line if data is thin: "a mysterious creature of stitched-together data."
+
+## 4. Fetch layer
+
+- One `fetchPart(part)` per part: `fetch` + `AbortController` timeout
+  (10 s) → parse JSON → validate shape → return render payload.
+  Any throw → `{ ok:false, error: short message }`.
+- `bringToLife()`: `Promise.allSettled(selected.map(fetchPart))` — one bad
+  API can never kill the creature.
+- Each part card shows its own fetch time (`new Date().toLocaleTimeString()`).
+
+## 5. Persistence & sharing
+
+- localStorage key `frankie.saved.v1`: JSON array of saved creatures
+  (max 12, newest first). Save stores parts + fetched payloads + name +
+  timestamp. Load restores the rendered creature as-is (no re-fetch).
+- Share URL: `#c=<base64url(JSON {v:1, parts:[...]})>`.
+  On load, if the hash parses and has 2–4 known part ids, auto-select those
+  parts and bring the creature to life with fresh fetches.
+  Unknown ids are dropped; fewer than 2 valid ids → ignore the hash.
+
+## 6. "IT'S ALIVE!" moment
+
+- On first successful `bringToLife` per page session: full-screen overlay
+  (CSS lightning flash + big "IT'S ALIVE!" text) for ~1.2 s, then fades.
+  Pure CSS animation triggered by adding a class; no audio (autoplay rules).
+- Subsequent re-animations use a small inline flash on the creature card only.
+
+## 7. Styling
+
+- Palette: near-black `#0a0f0a` background, lab green `#39ff6a` accents,
+  amber `#ffb300` warnings, bone `#e8e4d8` text.
+- Font: Google Fonts "Creepster" for the lab title + "Space Grotesk" for UI
+  (with system-font fallbacks if the font CDN is unreachable).
+- Monster silhouette: inline SVG in the creature header (stitched body
+  outline); each attached part card is visually "bolted on" with a bolt
+  marker (CSS `::before`, a `+` stitch mark, not an emoji).
+
+## 8. Error states
+
+| Situation | UI |
+|---|---|
+| One part fails | That card shows "PART FIZZLED" + error + retry-one-part button |
+| All parts fail | Stage shows lab-wide error + "Retry the experiment" button |
+| < 2 parts selected | Bring-to-life disabled + hint text |
+| Bad share hash | Hash ignored, normal picker shown, console warning only |
+| localStorage full/unavailable | Save button shows "storage unavailable" note, app keeps working |
+
+## 9. Testing plan (manual, gate-by-gate)
+
+1. Serve locally (`python3 -m http.server 8123`), curl every file → 200.
+2. Headless Chromium: load page, assert zero console errors, screenshot.
+3. Click 3 parts → Bring to life → all cards show live data (not mock).
+4. Remove a part, re-animate, verify the card disappears.
+5. Save creature → reload → saved creature listed → click → restored.
+6. Copy share link → open in a clean Chromium profile → same parts, fresh data.
+7. Block network for one API (devtools offline per-request is not available
+   headless; instead test the fallback by pointing a part at a dead URL in a
+   scratch copy) → error card renders, creature survives.
+8. `grep -ri` for keys/secrets → none.
