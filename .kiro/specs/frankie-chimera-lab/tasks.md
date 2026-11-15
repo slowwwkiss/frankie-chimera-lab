@@ -1,1 +1,57 @@
-IyBUYXNrcyDigJQgRnJhbmtpZTogVGhlIEFQSSBDaGltZXJhIExhYgoKU3BlYy1kcml2ZW4gdGFzayBsaXN0LiBDaGVjayBvZmYgYXMgZG9uZTsgZG8gbm90IG1hcmsgYSB0YXNrIGRvbmUgdW50aWwgaXRzCmFjY2VwdGFuY2UgY2hlY2sgcGFzc2VzLgoKIyMgUGhhc2UgMSDigJQgU3BlYyAmIHN0ZWVyaW5nIChzcGVjLWRyaXZlbiBLaXJvIG1ldGhvZG9sb2d5KQotIFt4XSAxLjEgV3JpdGUgYC5raXJvL3NwZWNzL2ZyYW5raWUtY2hpbWVyYS1sYWIvcmVxdWlyZW1lbnRzLm1kYAotIFt4XSAxLjIgV3JpdGUgYC5raXJvL3NwZWNzL2ZyYW5raWUtY2hpbWVyYS1sYWIvZGVzaWduLm1kYAotIFt4XSAxLjMgV3JpdGUgYC5raXJvL3NwZWNzL2ZyYW5raWUtY2hpbWVyYS1sYWIvdGFza3MubWRgICh0aGlzIGZpbGUpCi0gW3hdIDEuNCBXcml0ZSBgLmtpcm8vc3RlZXJpbmcvcHJvZHVjdC5tZGAsIGB0ZWNoLm1kYCwgYHN0cnVjdHVyZS5tZGAKLSBbeF0gMS41IFdyaXRlIGAua2lyby9hZ2VudHMvZHItZnJhbmtlbnN0ZWluLm1kYCAoY3VzdG9tIGFnZW50KQotIFt4XSAxLjYgV3JpdGUgYC5raXJvL2hvb2tzL2Zvcm1hdC1vbi1zYXZlLmpzb25gICsgYHNjcmlwdHMvdmVyaWZ5LWFwcC5zaGAKICAgICAgKGhvb2sgdGFyZ2V0KSBhbmQgYC5raXJvL3NldHRpbmdzL21jcC5qc29uYCAoZmV0Y2ggTUNQIHNlcnZlcikKCiMjIFBoYXNlIDIg4oCUIFZlcmlmeSBkYXRhIHNvdXJjZXMgKGJlZm9yZSBhbnkgVUkgY29kZSkKLSBbeF0gMi4xIGN1cmwgZWFjaCBjYW5kaWRhdGUgQVBJOiBzdGF0dXMgMjAwICsgYEFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbjogKmAKICAgICAgLSBQQVNTOiBBZHZpY2UgU2xpcCwgQ29pbkdlY2tvLCBKb2tlQVBJIHYyLCBEb2cgQ0VPLCBDYXQgRmFjdHMsCiAgICAgICAgd3R0ci5pbiwgT3BlbkxpYnJhcnksIEJvcmVkIEFQSSAoMTUgTm92IDIwMjYpCiAgICAgIC0gRkFJTC9SRUpFQ1RFRDogT3Blbi1NZXRlbyAoNDI5IGRhaWx5IGxpbWl0IG9uIHNoYXJlZCBJUCksCiAgICAgICAgUXVvdGFibGUgKGNvbm5lY3Rpb24gZmFpbGVkKSwgTnVtYmVyc0FQSSAoNDA0KQotIFt4XSAyLjIgUmUtdmVyaWZ5IHRoZSA4IGNob3NlbiBBUElzIG9uY2UgbW9yZSBhdCBmaW5hbCBnYXRlIHRpbWUKICAgICAgKEFQSXMgY2FuIGRpZSBiZXR3ZWVuIGJ1aWxkIGFuZCBzdWJtaXQpLiBET05FIDE1IE5vdiB+MjI6MDAgV0lCOgogICAgICBhbGwgOCByZS1mZXRjaGVkIHZpYSBjdXJsLCB2YWxpZCBKU09OLCBmaXh0dXJlcyBzYXZlZCB0bwogICAgICAvdG1wL2ZyYW5raWUtZml4dHVyZXMvLiBSZS12ZXJpZnkgQUdBSU4gb24gc3VibWl0IGRheS4KCiMjIFBoYXNlIDMg4oCUIEltcGxlbWVudGF0aW9uCi0gW3hdIDMuMSBgaW5kZXguaHRtbGAg4oCUIHBpY2tlciAoOCBwYXJ0cyksIHN0YWdlLCBjb250cm9scywgc2F2ZWQgbGlzdCwKICAgICAgSVQnUyBBTElWRSBvdmVybGF5LCBhcmlhLWxpdmUgc3RhdHVzIHJlZ2lvbi4KLSBbeF0gMy4yIGBzdHlsZXMuY3NzYCDigJQgbGFiIHRoZW1lLCByZXNwb25zaXZlICgzNjAgcHggLyAxMjgwIHB4KSwgZmxhc2ggYW5pbWF0aW9uLgotIFt4XSAzLjMgYGFwcC5qc2Ag4oCUIFBBUlRTIHJlZ2lzdHJ5ICg4IGZldGNoZXJzICsgdGltZW91dCArIHZhbGlkYXRpb24pLAogICAgICBuYW1lL3BlcnNvbmFsaXR5IGdlbmVyYXRvciwgYnJpbmdUb0xpZmUgKGFsbFNldHRsZWQpLCByZWFuaW1hdGUsCiAgICAgIGF1dG8tcmVmcmVzaCAoNjAgcyksIGxvY2FsU3RvcmFnZSBzYXZlL2xvYWQvZGVsZXRlLCBzaGFyZS1oYXNoCiAgICAgIGVuY29kZS9kZWNvZGUgKyBhdXRvLXJlc3RvcmUsIHBlci1wYXJ0IGVycm9yIGNhcmRzLgotIFt4XSAzLjQgYHNjcmlwdHMvdmVyaWZ5LWFwcC5zaGAg4oCUIHN0YXRpYyBjaGVja3M6IGZpbGVzIGV4aXN0LCBubyBzZWNyZXRzCiAgICAgIChncmVwKSwgSFRNTCByZWZlcmVuY2VzIHJlc29sdmUsIEpTIHBhcnNlcyAoYG5vZGUgLS1jaGVja2ApLgogICAgICBSZXN1bHQ6IDE0LzE0IFBBU1MsIGV4aXQgMC4KCiMjIFBoYXNlIDQg4oCUIFZlcmlmaWNhdGlvbiAoZ2F0ZS1ieS1nYXRlLCBldmlkZW5jZSBpbiBOT1RFUy5tZCkKLSBbeF0gNC4xIFNlcnZlIGxvY2FsbHksIGN1cmwgYWxsIHBhZ2VzL2Fzc2V0cyDihpIgMjAwLgotIFt4XSA0LjIgSGVhZGxlc3MgQ2hyb21pdW0gbG9hZDogemVybyBjb25zb2xlIGVycm9ycywgc2NyZWVuc2hvdCBwcm9vZi4KICAgICAgKDI2LzI2IGhhcm5lc3MgcnVuOyBzZWUgTk9URVMubWQgZm9yIHRoZSBzYW5kYm94LW5ldHdvcmsgY2F2ZWF0LikKLSBbeF0gNC4zIEZsb3cgdGVzdDogcGljayAzIHBhcnRzIOKGkiBicmluZyB0byBsaWZlIOKGkiBsaXZlIGRhdGEgdmlzaWJsZS4KLSBbeF0gNC40IEZsb3cgdGVzdDogcmVtb3ZlIHBhcnQsIHJlYW5pbWF0ZS4KLSBbeF0gNC41IEZsb3cgdGVzdDogc2F2ZSDihpIgcmVsb2FkIOKGkiByZXN0b3JlIGZyb20gc2F2ZWQgbGlzdC4KLSBbeF0gNC42IEZsb3cgdGVzdDogc2hhcmUgVVJMIGluIGNsZWFuIHByb2ZpbGUg4oaSIHBhcnRzIHJlc3RvcmVkLCBmcmVzaCBkYXRhLgotIFt4XSA0LjcgRmFpbHVyZSB0ZXN0OiBvbmUgZGVhZCBBUEkg4oaSIGVycm9yIGNhcmQsIGNyZWF0dXJlIHN1cnZpdmVzLgogICAgICAoVGVzdGVkIHdpdGggVFdPIGRlYWQgQVBJczogMiBmaXp6bGUgY2FyZHMsIDEgbGl2ZSwgY3JlYXR1cmUgYWxpdmUuKQotIFt4XSA0LjggUmVwbyBoeWdpZW5lOiBMSUNFTlNFIE1JVCwgUkVBRE1FLCAua2lybyBOT1QgaW4gLmdpdGlnbm9yZSwKICAgICAgZ3JlcCBmb3Igc2VjcmV0cyDihpIgbm9uZS4KCiMjIFBoYXNlIDUg4oCUIERlbGl2ZXJ5IChOT1QgdGhpcyB0ZWFtOiBtYWluIGFnZW50KQotIFsgXSA1LjEgR2l0SHViIHJlcG8gYHNsb3d3d2tpc3MvZnJhbmtpZS1jaGltZXJhLWxhYmAgKHB1YmxpYykgKyBwdXNoLgotIFsgXSA1LjIgR2l0SHViIFBhZ2VzIGVuYWJsZWQsIGRlbW8gVVJMIGxpdmUuCi0gWyBdIDUuMyBEZW1vIHZpZGVvIDwgMyBtaW4gKFlvdVR1YmUsIHB1YmxpYykuCi0gWyBdIDUuNCBEZXZwb3N0IHN1Ym1pdCBiZWZvcmUgU2F0IDUgRGVjIDIwMjYgMDU6MDAgV0lCLgotIFsgXSA1LjUgYGtpcm8tY2xpIGxvZ2luYCAoR2l0SHViIHNsb3d3d2tpc3MpIHNvIGZ1dHVyZSB3b3JrIGNhbiBydW4KICAgICAgcmVhbCBoZWFkbGVzcyBLaXJvIHRhc2tzOyB1cGRhdGUgS0lSTy1VU0FHRS5tZCBob25lc3RseSB3aGVuIGRvbmUuCg==
+# Tasks — Frankie: The API Chimera Lab
+
+Spec-driven task list. Check off as done; do not mark a task done until its
+acceptance check passes.
+
+## Phase 1 — Spec & steering (spec-driven Kiro methodology)
+- [x] 1.1 Write `.kiro/specs/frankie-chimera-lab/requirements.md`
+- [x] 1.2 Write `.kiro/specs/frankie-chimera-lab/design.md`
+- [x] 1.3 Write `.kiro/specs/frankie-chimera-lab/tasks.md` (this file)
+- [x] 1.4 Write `.kiro/steering/product.md`, `tech.md`, `structure.md`
+- [x] 1.5 Write `.kiro/agents/dr-frankenstein.md` (custom agent)
+- [x] 1.6 Write `.kiro/hooks/format-on-save.json` + `scripts/verify-app.sh`
+      (hook target) and `.kiro/settings/mcp.json` (fetch MCP server)
+
+## Phase 2 — Verify data sources (before any UI code)
+- [x] 2.1 curl each candidate API: status 200 + `Access-Control-Allow-Origin: *`
+      - PASS: Advice Slip, CoinGecko, JokeAPI v2, Dog CEO, Cat Facts,
+        wttr.in, OpenLibrary, Bored API (15 Nov 2026)
+      - FAIL/REJECTED: Open-Meteo (429 daily limit on shared IP),
+        Quotable (connection failed), NumbersAPI (404)
+- [x] 2.2 Re-verify the 8 chosen APIs once more at final gate time
+      (APIs can die between build and submit). DONE 15 Nov ~22:00 WIB:
+      all 8 re-fetched via curl, valid JSON, fixtures saved to
+      /tmp/frankie-fixtures/. Re-verify AGAIN on submit day.
+
+## Phase 3 — Implementation
+- [x] 3.1 `index.html` — picker (8 parts), stage, controls, saved list,
+      IT'S ALIVE overlay, aria-live status region.
+- [x] 3.2 `styles.css` — lab theme, responsive (360 px / 1280 px), flash animation.
+- [x] 3.3 `app.js` — PARTS registry (8 fetchers + timeout + validation),
+      name/personality generator, bringToLife (allSettled), reanimate,
+      auto-refresh (60 s), localStorage save/load/delete, share-hash
+      encode/decode + auto-restore, per-part error cards.
+- [x] 3.4 `scripts/verify-app.sh` — static checks: files exist, no secrets
+      (grep), HTML references resolve, JS parses (`node --check`).
+      Result: 14/14 PASS, exit 0.
+
+## Phase 4 — Verification (gate-by-gate, evidence in NOTES.md)
+- [x] 4.1 Serve locally, curl all pages/assets → 200.
+- [x] 4.2 Headless Chromium load: zero console errors, screenshot proof.
+      (26/26 harness run; see NOTES.md for the sandbox-network caveat.)
+- [x] 4.3 Flow test: pick 3 parts → bring to life → live data visible.
+- [x] 4.4 Flow test: remove part, reanimate.
+- [x] 4.5 Flow test: save → reload → restore from saved list.
+- [x] 4.6 Flow test: share URL in clean profile → parts restored, fresh data.
+- [x] 4.7 Failure test: one dead API → error card, creature survives.
+      (Tested with TWO dead APIs: 2 fizzle cards, 1 live, creature alive.)
+- [x] 4.8 Repo hygiene: LICENSE MIT, README, .kiro NOT in .gitignore,
+      grep for secrets → none.
+
+## Phase 5 — Delivery (NOT this team: main agent)
+- [ ] 5.1 GitHub repo `slowwwkiss/frankie-chimera-lab` (public) + push.
+- [ ] 5.2 GitHub Pages enabled, demo URL live.
+- [ ] 5.3 Demo video < 3 min (YouTube, public).
+- [ ] 5.4 Devpost submit before Sat 5 Dec 2026 05:00 WIB.
+- [ ] 5.5 `kiro-cli login` (GitHub slowwwkiss) so future work can run
+      real headless Kiro tasks; update KIRO-USAGE.md honestly when done.
