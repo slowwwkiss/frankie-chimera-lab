@@ -1,1 +1,38 @@
-IyBTdHJ1Y3R1cmUgU3RlZXJpbmcg4oCUIEZyYW5raWU6IFRoZSBBUEkgQ2hpbWVyYSBMYWIKCmBgYApmcmFua2llLWNoaW1lcmEtbGFiLwrilJzilIDilIAgaW5kZXguaHRtbCAgICAgICAgICAgICAgICAgICMgdGhlIHdob2xlIGFwcCBVSSAoc2luZ2xlIHBhZ2UpCuKUnOKUgOKUgCBhcHAuanMgICAgICAgICAgICAgICAgICAgICAgIyBhbGwgbG9naWM6IHBhcnRzLCBmZXRjaCwgY3JlYXR1cmUsIHNhdmUvc2hhcmUK4pSc4pSA4pSAIHN0eWxlcy5jc3MgICAgICAgICAgICAgICAgICAjIGxhYiB0aGVtZSwgcmVzcG9uc2l2ZSwgSVQnUyBBTElWRSBhbmltYXRpb24K4pSc4pSA4pSAIExJQ0VOU0UgICAgICAgICAgICAgICAgICAgICAjIE1JVArilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAgICAgICMgcnVuIGl0LCBBUElzIHVzZWQsIGRlcGxveSB0byBQYWdlcwrilJzilIDilIAgTk9URVMubWQgICAgICAgICAgICAgICAgICAgICMgYnVpbGQgbG9nICsgZ2F0ZSB2ZXJpZmljYXRpb24gZXZpZGVuY2UK4pSc4pSA4pSAIEtJUk8tVVNBR0UubWQgICAgICAgICAgICAgICAjIGhvbmVzdCBLaXJvIHVzYWdlIHdyaXRlLXVwIChEZXZwb3N0KQrilJzilIDilIAgU1VCTUlTU0lPTi1EUkFGVC5tZCAgICAgICAgICMgRGV2cG9zdCBmb3JtIGZpZWxkcyAoZHJhZnQsIG1haW4gYWdlbnQgc3VibWl0cykK4pSc4pSA4pSAIHNjcmlwdHMvCuKUgiAgIOKUlOKUgOKUgCB2ZXJpZnktYXBwLnNoICAgICAgICAgICAjIHN0YXRpYyBnYXRlIGNoZWNrcyAodXNlZCBieSB0aGUgS2lybyBob29rKQrilJTilIDilIAgLmtpcm8vICAgICAgICAgICAgICAgICAgICAgICMgTVVTVCBiZSBhdCByZXBvIHJvb3QsIE1VU1QgTk9UIGJlIGdpdGlnbm9yZWQKICAgIOKUnOKUgOKUgCBzcGVjcy9mcmFua2llLWNoaW1lcmEtbGFiLwogICAg4pSCICAg4pSc4pSA4pSAIHJlcXVpcmVtZW50cy5tZAogICAg4pSCICAg4pSc4pSA4pSAIGRlc2lnbi5tZAogICAg4pSCICAg4pSU4pSA4pSAIHRhc2tzLm1kCiAgICDilJzilIDilIAgc3RlZXJpbmcvCiAgICDilIIgICDilJzilIDilIAgcHJvZHVjdC5tZAogICAg4pSCICAg4pSc4pSA4pSAIHRlY2gubWQKICAgIOKUgiAgIOKUlOKUgOKUgCBzdHJ1Y3R1cmUubWQKICAgIOKUnOKUgOKUgCBob29rcy8KICAgIOKUgiAgIOKUlOKUgOKUgCBmb3JtYXQtb24tc2F2ZS5qc29uCiAgICDilJzilIDilIAgYWdlbnRzLwogICAg4pSCICAg4pSU4pSA4pSAIGRyLWZyYW5rZW5zdGVpbi5tZAogICAg4pSU4pSA4pSAIHNldHRpbmdzLwogICAgICAgIOKUlOKUgOKUgCBtY3AuanNvbgpgYGAKCiMjIFJ1bGVzCi0gYC5raXJvL2AgbGl2ZXMgYXQgdGhlIHJlcG8gUk9PVC4gTmV2ZXIgbW92ZSBpdCwgbmV2ZXIgZ2l0aWdub3JlIGl0CiAgKEtpcm93ZWVuIHJ1bGVzOiBtaXNzaW5nIGAvLmtpcm9gID0gZGlzcXVhbGlmaWNhdGlvbiByaXNrKS4KLSBObyBgbm9kZV9tb2R1bGVzL2AsIG5vIGJ1aWxkIG91dHB1dCwgbm8gZ2VuZXJhdGVkIGZpbGVzIGluIHRoZSByZXBvLgotIE5vIGAuZ2l0aHViL3dvcmtmbG93cy9gIOKAlCB0aGUgR2l0SHViIEFwcCB0b2tlbiB1c2VkIGZvciBwdXNoaW5nIGNhbm5vdAogIGNyZWF0ZSB3b3JrZmxvdyBmaWxlcyAoNDAzKTsgQ0kgaXMgb3V0IG9mIHNjb3BlIGZvciB0aGlzIHN0YXRpYyBhcHAuCi0gS2VlcCB0aGUgZmlsZSBjb3VudCBzbWFsbDoganVkZ2VzIG11c3QgYmUgYWJsZSB0byByZWFkIHRoZSB3aG9sZSBhcHAuCg==
+# Structure Steering — Frankie: The API Chimera Lab
+
+```
+frankie-chimera-lab/
+├── index.html                  # the whole app UI (single page)
+├── app.js                      # all logic: parts, fetch, creature, save/share
+├── styles.css                  # lab theme, responsive, IT'S ALIVE animation
+├── LICENSE                     # MIT
+├── README.md                   # run it, APIs used, deploy to Pages
+├── NOTES.md                    # build log + gate verification evidence
+├── KIRO-USAGE.md               # honest Kiro usage write-up (Devpost)
+├── SUBMISSION-DRAFT.md         # Devpost form fields (draft, main agent submits)
+├── scripts/
+│   └── verify-app.sh           # static gate checks (used by the Kiro hook)
+└── .kiro/                      # MUST be at repo root, MUST NOT be gitignored
+    ├── specs/frankie-chimera-lab/
+    │   ├── requirements.md
+    │   ├── design.md
+    │   └── tasks.md
+    ├── steering/
+    │   ├── product.md
+    │   ├── tech.md
+    │   └── structure.md
+    ├── hooks/
+    │   └── format-on-save.json
+    ├── agents/
+    │   └── dr-frankenstein.md
+    └── settings/
+        └── mcp.json
+```
+
+## Rules
+- `.kiro/` lives at the repo ROOT. Never move it, never gitignore it
+  (Kiroween rules: missing `/.kiro` = disqualification risk).
+- No `node_modules/`, no build output, no generated files in the repo.
+- No `.github/workflows/` — the GitHub App token used for pushing cannot
+  create workflow files (403); CI is out of scope for this static app.
+- Keep the file count small: judges must be able to read the whole app.
